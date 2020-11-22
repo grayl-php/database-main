@@ -14,11 +14,11 @@
     }
   ],
   "type": "library",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "require": {
-    "grayl/database-query": "^1",
-    "grayl/gateway-pdo": "^1",
-    "grayl/mixin-common": "^1",
+    "grayl/database-query": "^1.0",
+    "grayl/gateway-pdo": "^1.1",
+    "grayl/mixin-common": "^1.0",
     "php": "~7.4",
     "ext-openssl": "*"
   },
